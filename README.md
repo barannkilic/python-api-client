@@ -6,7 +6,7 @@ Python ile sıfırdan yazılmış, `requests` tabanlı bir API istemcisi: class 
 
 Bu repo, bir API'ye nasıl bağlanılacağını, veri çekip gönderileceğini ve gerçek dünyaya dayanıklı bir istemcinin (client) nasıl yazılacağını adım adım gösteren bir öğrenme projesidir. Test API'si olarak [JSONPlaceholder](https://jsonplaceholder.typicode.com) kullanılmıştır.
 
-İlgili Medium yazısı: *(yazıyı yayınlayınca buraya linkini ekle)*
+İlgili Medium yazısı: *[(yazıyı yayınlayınca buraya linkini ekle)](https://medium.com/@ibrahimbarankilicc/1b5bd48e8a7b)*
 
 ## Neler Var?
 
